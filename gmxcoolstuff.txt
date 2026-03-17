@@ -1,8 +1,9 @@
  	Extracted from src/gromacs/utility/coolstuff.cpp. I guess if you want to add your own quotes, or your PI's quotes to earn rep, you could do in here.(?)
- 	
+
+##
  	BROMACS quotes;
  	
- 	"Good gRace! Old Maple Actually Chews Slate",
+       	"Good gRace! Old Maple Actually Chews Slate",
         "GRoups of Organic Molecules in ACtion for Science",
         "GRowing Old MAkes el Chrono Sweat",
         "Gyas ROwers Mature At Cryogenic Speed",
@@ -30,7 +31,7 @@
         "Gromacs Runs One Microsecond At Cannonball Speeds",
       
         
-        ###################################
+        ##
   	
   	Coolstuff;
   	      
